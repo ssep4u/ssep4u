@@ -1,5 +1,9 @@
-### My Profile
-- 🌱
+# My Profile
+## 🤩
+  - 행복한 가정
+  - 아이들의 **꿈**을 키우는 선생님
+
+## 🌱
   - Python
   - Django
 
