@@ -1,4 +1,7 @@
-### Hi there 👋
+### My Profile
+- 🌱
+  - Python
+  - Django
 
 <!--
 **ssep4u/ssep4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
