@@ -8,7 +8,7 @@
   - Django
 
 ## 🏫
-  - [중학교 홍보](https://ssep4u.github.io/middleschool_promotion/middleschool_promotion.html)
+  - [중학교 홍보](https://middleschoolpromotion.netlify.app/)
 
 <!--
 **ssep4u/ssep4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
