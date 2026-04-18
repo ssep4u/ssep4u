@@ -6,6 +6,7 @@
 ## 🌱
   - Python
   - Django
+  - React
 
 ## 🏫
   - [중학교 홍보](https://middleschoolpromotion.netlify.app/)
