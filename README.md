@@ -10,6 +10,9 @@
 
 ## 🏫
   - [중학교 홍보](https://middleschoolpromotion.netlify.app/)
+  - [미림 급식 GPT](http://bit.ly/%EB%AF%B8%EA%B8%89G)
+  - [미림 오늘(학생용)](https://bit.ly/mirimtt)
+  - [WSM](https://mirimsmd.netlify.app/)
 
 <!--
 **ssep4u/ssep4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
